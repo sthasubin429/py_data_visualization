@@ -1,6 +1,6 @@
 Visualizes patterns in Lyrics
 
-    You can literally see the Music. :joy: :joy: :sunglasses:
+    You can literally see the Music
 
 How to Run?
 
